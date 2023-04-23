@@ -1,0 +1,14 @@
+{
+    "signature": {
+        "version": "snapshot",
+        "channel": "development",
+        "user": "disroop"
+    },
+    "configurations": [
+        {
+            "host_profile": "default",
+            "build_profile": "default",
+            "build": "missing"
+        }
+    ]
+}
