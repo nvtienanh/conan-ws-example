@@ -1,3 +1,0 @@
-include(clang-apple-debug)
-[settings]
-build_type=Release

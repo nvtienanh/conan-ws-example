@@ -1,0 +1,14 @@
+editables:
+    demoa/0.1@user/dev:
+        path: ../../a
+    demob/0.1@user/dev:
+        path: ../../b
+    democ/0.1@user/dev:
+        path: ../../c
+    demod/0.1@user/dev:
+        path: ../../d
+
+layout: layout_linux
+workspace_generator: cmake
+root: 
+    - demod/0.1@user/dev

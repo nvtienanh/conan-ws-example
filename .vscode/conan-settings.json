@@ -2,8 +2,8 @@
     "workspace":[
         {
             "name":"ws-debug",
-            "conanWs": "${workspaceFolder}/.infrastructure/workspace/ws-linux.yml",
-            "profile":"${workspaceFolder}/.infrastructure/conan_config/profiles/clang-apple-debug",
+            "conanWs": "${workspaceFolder}/.config/workspace/ws-linux.yml",
+            "profile":"${workspaceFolder}/.config/conan_config/profiles/clang-apple-debug",
             "arg": "--build=missing"
         }
     ]
